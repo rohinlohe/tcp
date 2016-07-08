@@ -18,7 +18,7 @@ In order to run the client, the following command can be used:
 ```text
 python TCP.py -p {port number} -H {hostname} [-v]
 ```
-### Example Run 
+### Example Run [Results]
 
 <img src="clientside.png" width="75%">
 <img src="serverside.png" width="75%">
